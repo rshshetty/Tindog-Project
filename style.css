@@ -193,6 +193,9 @@ padding: 3% 2%;
 .nav-link{
         font-size: 2rem;
     }
+    .navbar-brand{
+    font-size: 3rem;
+}
 }
 
 @media screen and (max-width:570px){
@@ -214,7 +217,9 @@ padding: 3% 2%;
     left: 16%;
 
     }
-
+.navbar-brand{
+    font-size: 3rem;
+}
     .download-button-b{
         position:absolute;
         left: 15.5rem;
