@@ -190,7 +190,9 @@ padding: 3% 2%;
     #features{
         margin-top: 20px;
     } 
-
+.nav-link{
+        font-size: 2rem;
+    }
 }
 
 @media screen and (max-width:570px){
@@ -199,6 +201,12 @@ padding: 3% 2%;
     }
     .download-button{
         top:900px; 
+    }
+/* .Big-Heading{
+     font-size: 8rem;
+} */
+    .nav-link{
+        font-size: 2rem;
     }
     .download-button-a{
         position:absolute;
